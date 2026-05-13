@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tree-trim-mooresville-v7.example/sitemap.xml
